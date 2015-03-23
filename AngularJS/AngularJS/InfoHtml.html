@@ -1,0 +1,27 @@
+﻿<div>
+    <h1>Repository info</h1>
+    <hr />
+    <div>
+        <div>
+            <img ng-src="{{repo.avatar_url}}" alt="{{repo.avatar_url}}" />
+        </div>
+        <div>
+            <span><b>ID: </b>{{repo.id}}  <a href="{{repo.html_url}}">{{repo.full_name}}</a></span>
+            <br />
+            <span><b>Description</b>: {{repo.description}}</span>
+        </div>
+        <div>
+            <b>List of contributors:</b>
+            <div ng-repeat="contributor in repo.contributors">
+                {{contributor.login}}
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div>
+        <a href="#/">Back</a>
+    </div>
+
+
+</div>
+

@@ -1,0 +1,6 @@
+D:\Andrew\NET_Lab\Day7_angularJS\Practise_4\AngularJS\AngularJS\bin\AngularJS.dll.config
+D:\Andrew\NET_Lab\Day7_angularJS\Practise_4\AngularJS\AngularJS\bin\AngularJS.dll
+D:\Andrew\NET_Lab\Day7_angularJS\Practise_4\AngularJS\AngularJS\bin\AngularJS.pdb
+D:\Andrew\NET_Lab\Day7_angularJS\Practise_4\AngularJS\AngularJS\obj\Debug\AngularJS.csprojResolveAssemblyReference.cache
+D:\Andrew\NET_Lab\Day7_angularJS\Practise_4\AngularJS\AngularJS\obj\Debug\AngularJS.dll
+D:\Andrew\NET_Lab\Day7_angularJS\Practise_4\AngularJS\AngularJS\obj\Debug\AngularJS.pdb
